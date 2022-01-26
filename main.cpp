@@ -1,3 +1,5 @@
 #include<iostream.h>
 using namespace std;
-int main();
+int main(){
+    fun();
+}

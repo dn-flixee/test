@@ -1,5 +1,8 @@
 #include<iostream.h>
 using namespace std;
 int main(){
-    fun();
+   cout<< fun();
+}
+int fun(){
+    return 0;
 }

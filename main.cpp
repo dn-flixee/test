@@ -1,8 +1,8 @@
 #include<iostream.h>
 using namespace std;
 int main(){
-   cout<< fun();
+   cout<< fun(10);
 }
-int fun(){
-    return 0;
+int fun(n){
+    return n;
 }
